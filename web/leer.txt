@@ -1,0 +1,43 @@
+1.- arrancar Xammp
+2.- ingresar al enlace:
+http://localhost/aplicacion/SAcademico/web/index.php
+11111111
+host gratuito: https://www.000webhost.com/
+login: danielcopa2694@gmail.com
+name :cetalnoche
+password: Cetal_nocheV0
+lista: https://www.000webhost.com/members/website/list
+pagina: https://cetalnoche.000webhostapp.com/
+
+2222222
+error upload.zip seguir os pasos del video: https://www.youtube.com/watch?v=NBvg6JJtzDo
+añadir en public los archivos descargados..
+ingresar a:
+https://cetalnoche.000webhostapp.com/unzipper.php
+descomprimir la bd
+
+ver video de como subir un web hosting gratuito por ing. rene dominguez
+
+mover todos los archivos a public_html
+mover todos los archivos de web  public_html
+
+3333333333
+configurar connect a bd
+    define("SERVIDOR","localhost");
+    define("USUARIO","id18898200_admin");
+    define("PASSWORD","Cetal_nocheV0");
+    define("BD","id18898200_sistema");
+
+
+database name: sistema
+database username: admin
+Password: Cetal_nocheV0
+docente: daniel copa CBD260594 1234 - 
+estudiante: prueba prueba PPP260790 1234 -
+
+nacimineto: 01/01/1990
+
+comentar el header de redicecionamiento para poder ver los echo
+
+ echo("mateeria ".$materia_id);
+        echo('docente '.$docente['docente_id']);
